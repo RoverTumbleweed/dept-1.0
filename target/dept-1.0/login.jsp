@@ -35,11 +35,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	          </tr>
 			  <tr>
 				  <td>用户类型：</td>
-				  <td><input type="text" name="ty" value="2"></td>
+				  <td><input type="text" name="ty" value="1"></td>
 			  </tr>
 			  <tr>
 				  <td>用户年龄：</td>
-				  <td><input type="text" name="age" value="3"></td>
+				  <td><input type="text" name="age" value="18"></td>
 			  </tr>
 	          <tr>
 	            <td colspan="2" align="center">
